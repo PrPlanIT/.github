@@ -170,6 +170,39 @@ Minimal CI/automation image. bash, coreutils, curl, git, jq, envsubst, and a Pok
 
 ---
 
+## Contributing
+
+- Fork the repository
+- Submit Pull Requests / Merge Requests
+- Open issues with ideas, bugs, or feature requests
+
+---
+
+## Support / Sponsorship
+
+As of 2026, PrecisionPlanIT has not generated revenue from any of its associated projects. Please feel no obligation whatsoever, but if you do want to help support our projects and production environment costs we do provide this link to do so:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sofmeright)
+
+---
+
+## Disclaimer
+
+The Software provided hereunder is licensed "as-is," without warranties of any kind. The developer makes no promises about functionality, performance, or availability. Not responsible if your CI pipeline automates itself out of a job, your retention policies work so well your registry bill drops and finance gets confused, or your infrastructure becomes so stable you forget how to troubleshoot.
+
+Any resemblance to working software is entirely intentional but not guaranteed. The developer claims no credit for anything that actually goes right — that's all you and the unstoppable force of the Open Source community.
+
+---
+
 ## License
 
-Projects are individually licensed — see each repository for details.
+Distributed under the **AGPL-3.0-only** License.
+
+Most projects can be inferred as AGPL-3.0 FOSS with the following terms:
+
+- **Personal / homelab use** — free forever
+- **Non-profit / charitable organizations** — free forever
+- **Commercial use** — free under 50 users and under $120K annual revenue
+- Beyond those thresholds, reach out for a commercial license
+
+See each repository for specific licensing details.
