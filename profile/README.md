@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](./assets/PrecisionPlanIT.com-Banner.png)
+![Banner](../assets/PrecisionPlanIT.com-Banner.png)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=The+Real+World;Requires+Real+Results...;You+Have+Real+Expectations;Precision+Plan+IT" alt="Typing SVG" />
 
@@ -52,7 +52,7 @@
 <tr>
 <td width="50%">
 
-#### [StageFreight](https://gitlab.prplanit.com/precisionplanit/stagefreight)
+#### [StageFreight](https://github.com/sofmeright/stagefreight)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
@@ -65,7 +65,7 @@
 </td>
 <td width="50%">
 
-#### [HASteward](https://gitlab.prplanit.com/precisionplanit/hasteward)
+#### [HASteward](https://github.com/sofmeright/hasteward)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
@@ -80,7 +80,7 @@
 <tr>
 <td width="50%">
 
-#### [Fairer-Pages](https://gitlab.prplanit.com/precisionplanit/fairer-pages)
+#### [Fairer-Pages](https://github.com/sofmeright/fairer-pages)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 **Custom error and default page server** for Gateway API / reverse proxy environments.
@@ -143,7 +143,7 @@
 <tr>
 <td width="33%">
 
-#### [ansible-oci](https://gitlab.prplanit.com/precisionplanit/ansible-oci)
+#### [ansible-oci](https://github.com/sofmeright/ansible-oci)
 ![Dockerfile](https://img.shields.io/badge/Dockerfile-2496ED?style=flat&logo=docker&logoColor=white)
 
 Ansible, Python, collections — the whole orchestra. Containerized playbook runner for CI and automation.
@@ -159,7 +159,7 @@ Custom NGINX build with extra modules for enhanced reverse proxy and web serving
 </td>
 <td width="33%">
 
-#### [oh-ci](https://gitlab.prplanit.com/precisionplanit/oh-ci)
+#### [oh-ci](https://github.com/prplanit/oh-ci)
 ![Dockerfile](https://img.shields.io/badge/Dockerfile-2496ED?style=flat&logo=docker&logoColor=white)
 
 Minimal CI/automation image. bash, coreutils, curl, git, jq, envsubst, and a Pokémon.
