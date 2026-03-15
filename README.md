@@ -19,64 +19,15 @@
 
 ## Tooling we Adopt in Our Reference Platform
 
-### Infrastructure & Virtualization
-![Proxmox](https://img.shields.io/badge/Proxmox_(VE%2FBS)-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=for-the-badge&logo=ceph&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Harbor](https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white)
-![JFrog](https://img.shields.io/badge/JFrog-41BF47?style=for-the-badge&logo=jfrog&logoColor=white)
-
-### Networking & DNS
-![Cilium](https://img.shields.io/badge/Cilium-F8C517?style=for-the-badge&logo=cilium&logoColor=black)
-![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
-![NetBird](https://img.shields.io/badge/NetBird-F57C00?style=for-the-badge&logoColor=white)
-![AdGuard](https://img.shields.io/badge/AdGuard-68BC71?style=for-the-badge&logo=adguard&logoColor=white)
-![BGP](https://img.shields.io/badge/BGP-0078D4?style=for-the-badge&logoColor=white)
-![OSPFv6](https://img.shields.io/badge/OSPFv6-0078D4?style=for-the-badge&logoColor=white)
-
-### Identity, Security & Secrets
-![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
-![Zitadel](https://img.shields.io/badge/Zitadel-6C48C5?style=for-the-badge&logoColor=white)
-![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white)
-![Boundary](https://img.shields.io/badge/Boundary-F24C53?style=for-the-badge&logo=hashicorp&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
-![Crowdsec](https://img.shields.io/badge/Crowdsec-1D5D8C?style=for-the-badge&logoColor=white)
-![SOPS](https://img.shields.io/badge/SOPS-4A154B?style=for-the-badge&logoColor=white)
-![AGE](https://img.shields.io/badge/AGE-5C2D91?style=for-the-badge&logoColor=white)
-![YubiKey](https://img.shields.io/badge/YubiKey-84BD00?style=for-the-badge&logo=yubico&logoColor=white)
-![9mm](https://img.shields.io/badge/9mm-333333?style=for-the-badge&logoColor=white)
-![.223](https://img.shields.io/badge/.223-333333?style=for-the-badge&logoColor=white)
-
-### Monitoring, Alerting & Observability
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-621773?style=for-the-badge&logoColor=white)
-![Alloy](https://img.shields.io/badge/Alloy-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Gatus](https://img.shields.io/badge/Gatus-46A758?style=for-the-badge&logoColor=white)
-![NetAlertX](https://img.shields.io/badge/NetAlertX-2196F3?style=for-the-badge&logoColor=white)
-![ntfy](https://img.shields.io/badge/ntfy-317B6E?style=for-the-badge&logoColor=white)
-![La Fin Du Monde](https://img.shields.io/badge/La_Fin_Du_Monde-DAA520?style=for-the-badge&logoColor=white)
-
-### DevOps & GitOps
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![FluxCD](https://img.shields.io/badge/FluxCD-5468FF?style=for-the-badge&logo=flux&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Home Automation & Media
-![Home_Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)
-![Frigate](https://img.shields.io/badge/Frigate-3B82F6?style=for-the-badge&logoColor=white)
-![Homarr](https://img.shields.io/badge/Homarr-FA5252?style=for-the-badge&logoColor=white)
-
-### Business & Productivity
-![osTicket](https://img.shields.io/badge/osTicket-A91C2E?style=for-the-badge&logoColor=white)
-![OpnForm](https://img.shields.io/badge/OpnForm-5B21B6?style=for-the-badge&logoColor=white)
-![Cal.com](https://img.shields.io/badge/Cal.com-292929?style=for-the-badge&logo=caldotcom&logoColor=white)
+| | |
+|---|---|
+| **Infrastructure** | ![Proxmox](https://img.shields.io/badge/Proxmox_(VE%2FBS)-E57000?style=flat&logo=proxmox&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=flat&logo=ceph&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Harbor](https://img.shields.io/badge/Harbor-60B932?style=flat&logo=harbor&logoColor=white) ![JFrog](https://img.shields.io/badge/JFrog-41BF47?style=flat&logo=jfrog&logoColor=white) |
+| **Networking** | ![Cilium](https://img.shields.io/badge/Cilium-F8C517?style=flat&logo=cilium&logoColor=black) ![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat&logo=istio&logoColor=white) ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white) ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat&logo=mikrotik&logoColor=white) ![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=flat&logo=ubiquiti&logoColor=white) ![NetBird](https://img.shields.io/badge/NetBird-F57C00?style=flat&logoColor=white) ![AdGuard](https://img.shields.io/badge/AdGuard-68BC71?style=flat&logo=adguard&logoColor=white) ![BGP](https://img.shields.io/badge/BGP-0078D4?style=flat&logoColor=white) ![OSPFv6](https://img.shields.io/badge/OSPFv6-0078D4?style=flat&logoColor=white) |
+| **Security** | ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat&logo=vault&logoColor=black) ![Zitadel](https://img.shields.io/badge/Zitadel-6C48C5?style=flat&logoColor=white) ![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC?style=flat&logo=bitwarden&logoColor=white) ![Boundary](https://img.shields.io/badge/Boundary-F24C53?style=flat&logo=hashicorp&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat&logo=wazuh&logoColor=white) ![Crowdsec](https://img.shields.io/badge/Crowdsec-1D5D8C?style=flat&logoColor=white) ![SOPS](https://img.shields.io/badge/SOPS-4A154B?style=flat&logoColor=white) ![AGE](https://img.shields.io/badge/AGE-5C2D91?style=flat&logoColor=white) ![YubiKey](https://img.shields.io/badge/YubiKey-84BD00?style=flat&logo=yubico&logoColor=white) ![9mm](https://img.shields.io/badge/9mm-333333?style=flat&logoColor=white) ![.223](https://img.shields.io/badge/.223-333333?style=flat&logoColor=white) |
+| **Observability** | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-621773?style=flat&logoColor=white) ![Alloy](https://img.shields.io/badge/Alloy-F46800?style=flat&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat&logo=grafana&logoColor=white) ![Gatus](https://img.shields.io/badge/Gatus-46A758?style=flat&logoColor=white) ![NetAlertX](https://img.shields.io/badge/NetAlertX-2196F3?style=flat&logoColor=white) ![ntfy](https://img.shields.io/badge/ntfy-317B6E?style=flat&logoColor=white) ![La Fin Du Monde](https://img.shields.io/badge/La_Fin_Du_Monde-DAA520?style=flat&logoColor=white) |
+| **DevOps** | ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) ![FluxCD](https://img.shields.io/badge/FluxCD-5468FF?style=flat&logo=flux&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
+| **Home & Media** | ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white) ![Frigate](https://img.shields.io/badge/Frigate-3B82F6?style=flat&logoColor=white) ![Homarr](https://img.shields.io/badge/Homarr-FA5252?style=flat&logoColor=white) |
+| **Business** | ![osTicket](https://img.shields.io/badge/osTicket-A91C2E?style=flat&logoColor=white) ![OpnForm](https://img.shields.io/badge/OpnForm-5B21B6?style=flat&logoColor=white) ![Cal.com](https://img.shields.io/badge/Cal.com-292929?style=flat&logo=caldotcom&logoColor=white) |
 
 ---
 
